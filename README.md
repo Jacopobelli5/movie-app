@@ -18,5 +18,7 @@ A simple React app that fetches and displays popular movies using the [TMDB API]
 - CSS for styling (custom)
 - Local Storage (for saving favorites)
 
-## 📁 Project Structure
+## 🌐 Live Site
+
+[https://jacoposmovieapp.vercel.app/](https://jacoposmovieapp.vercel.app/)
 
